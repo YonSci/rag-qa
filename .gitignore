@@ -1,0 +1,151 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+aiwebscrp_env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# DotEnv configuration
+.env
+
+# Database
+*.db
+*.rdb
+
+# Pycharm
+.idea
+
+# VS Code
+.vscode/
+
+# Spyder
+.spyproject/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data from source control by default
+/data/
+
+# Mac OS-specific storage files
+.DS_Store
+
+# vim
+*.swp
+*.swo
+
+# Mypy cache
+.mypy_cache/
+
+automated_scraping.txt
+
+temp.pdf
+
+docs/
+
+.streamlit/
+
+chroma_data/
+data/
+docs/
+files/
+llm_env/
+results/
+vectordb/
+
+
+
+africa_top_category.html
+africa_total_mentions.html
+api.py
+app.py
+app1.py
+Chinook.sqlite
+chroma_data
+climate_change_qa.jsonl
+climate_change_qa_dataset.py
+CLM_MLM.ipynb
+config.py
+d1.csv
+d11.csv
+
+data/
+docs/
+files/
+llm_env/
+
+model.py
+NSO_Survey.ipynb
+paul_graham_essay.txt
+pierre-wikipedia-climate-data.csv
+pierre-wikipedia-climate-data1.csv
+qa_ds.doc
+qa_ds.docm
+qa_ds.docx
+qa_ds.txt
+qa_ds_am.docx
+RAG-101.ipynb
+RAG-102.ipynb
+
+results/
+
+test_CLM_MLM.ipynb
+Untitled-1.ipynb
+Untitled-2.ipynb
+Untitled-3.ipynb
+vanna_app1.py
+vanna_app2.py
+vanna_calls.py
+vectordb/
