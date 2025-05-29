@@ -14,7 +14,8 @@ from langchain_ollama import OllamaLLM
 from langchain_ollama import OllamaEmbeddings
 
 # Import Chroma vector store wrapper (from langchain-chroma integration)
-from langchain_chroma import Chroma
+#from langchain_chroma import Chroma
+from langchain_community.vectorstores import Chroma
 
 # Import the recursive text splitter that chunks long documents
 from langchain.text_splitter import RecursiveCharacterTextSplitter  
