@@ -3,5 +3,4 @@ langchain_ollama
 langchain_chroma
 langchain_community
 streamlit
-time 
 warnings
